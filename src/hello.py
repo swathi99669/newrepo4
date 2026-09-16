@@ -1,1 +1,1 @@
-print("Hello!")
+python src/hello.py
